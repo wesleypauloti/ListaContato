@@ -1,7 +1,7 @@
 package Vetor;
 import java.util.Scanner;
 
-public class Aula10 {
+public class ListaContato {
 
     public static void main(String[] args) {
 
