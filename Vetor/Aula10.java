@@ -1,7 +1,7 @@
 package Vetor;
 import java.util.Scanner;
 
-public class Aula10 {
+public class ListaContato {
 
     public static void main(String[] args) {
 
@@ -138,7 +138,7 @@ public class Aula10 {
             System.out.println("\nDigite a opção desejada:\n");
             System.out.println("1: Adcionar contato");
             System.out.println("2: Consultar por posição");
-            // System.out.println("3: Consultar por nome do contato");
+            System.out.println("3: Consultar por nome do contato");
             System.out.println("4: Excluir contato");
             System.out.println("5: Mostrar total de contatos");
             System.out.println("6: Excluir todos os contatos");
